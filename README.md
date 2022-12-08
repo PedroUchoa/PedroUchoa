@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o João Pedro Uchôa
 
 
-- 🔭 Atualmente procuro um emprego/estágio na área Front End
-- 🌱 Atualmente estou estudando React
+- 🔭 Atualmente procuro um atualção como dev JR
+- 🌱 Atualmente estou estudando Java e Springboot
 - 📫 Você pode me contatar em: joaopedrouchoacampos@gmail.com
 
 <div align="center">
