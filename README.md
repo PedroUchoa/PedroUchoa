@@ -1,9 +1,9 @@
 ### Olá!! Eu sou o João Pedro Uchôa
 
 
-- 🔭 Atualmente procuro um atualção como dev JR
-- 🌱 Atualmente estou estudando Java e Springboot
-- 📫 Você pode me contatar em: joaopedrouchoacampos@gmail.com
+- 🔭 Atualmente procuro um atuação como dev JR
+- 🌱 Atualmente estou estudando Springboot/Angular
+- 📫 Você pode me contatar em: joaopedrouchoacamposolimpio@gmail.com Ou pelas minhas redes
 
 <div align="center">
   <a href="https://github.com/PedroUchoa">
