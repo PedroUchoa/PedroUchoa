@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o João Pedro Uchôa
 
 
-- 🔭 Procuro atuação como dev JR
+- 🔭 Procuro atuação como dev Backend
 - 🌱 Atualmente estudando Springboot/Angular
 - 📫 Você pode me contatar em: joaopedrouchoacamposolimpio@gmail.com Ou pelas minhas redes
 
