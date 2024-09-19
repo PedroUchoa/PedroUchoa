@@ -2,7 +2,7 @@
 
 
 - 🔭 Procuro atuação como dev Backend
-- 🌱 Atualmente estudando Springboot/Angular
+- 🌱 Atualmente estudando Microsserviços/Kotlin
 - 📫 Você pode me contatar em: joaopedrouchoacamposolimpio@gmail.com Ou pelas minhas redes
 
 <div align="center"> 
